@@ -1,5 +1,5 @@
 <h1 align="center">** Simple Shell Team Project **</h1>
-<h3 align="center">By Martin and Mostafa</h3>
+<h3 align="center">By Martain and Mostafa</h3>
 
 ---
 
@@ -39,3 +39,9 @@
   <li><strong>Exit Options:</strong> To exit, press <code>Ctrl-D</code> or type <code>exit</code> (with or without a status).</li>
   <li><strong>Non-Interactive Mode:</strong> The shell also supports non-interactive execution.</li>
 </ul>
+
+---
+
+<p>
+  <b>Note:</b> This project is an updated version of the original Simple Shell project. You can find the original repository here: <a href="https://github.com/M-sharkawy/simple_shell">Simple Shell Project</a>.
+</p>
